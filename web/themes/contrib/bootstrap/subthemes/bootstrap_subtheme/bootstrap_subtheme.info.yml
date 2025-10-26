@@ -1,4 +1,4 @@
-name: Bootstrap Subtheme (Portfolio 2025)
+name: Bootstrap Subtheme
 type: theme
 description: 'Basic structure for a Bootstrap SubTheme.'
 core_version_requirement: ^10.3 || ^11
@@ -32,7 +32,7 @@ regions:
   footer_fifth: 'Footer fifth'
   none: None
 
-# Information added by Drupal.org packaging script on 2024-09-16
-version: '5.0.1'
+# Information added by Drupal.org packaging script on 2025-06-10
+version: '5.0.2'
 project: 'bootstrap'
-datestamp: 1726511779
+datestamp: 1749514451

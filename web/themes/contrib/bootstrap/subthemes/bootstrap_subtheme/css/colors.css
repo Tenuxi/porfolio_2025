@@ -1,32 +1,32 @@
 /* ---------- Color Module Styles ----------- */
 
 body {
-  color: #fff;
-  background: #171717;
+  color: #3b3b3b;
+  background: #292929;
 }
 
 #page,
 #main-wrapper,
 .region-primary-menu .menu-item a.is-active,
 .region-primary-menu .menu-item--active-trail a {
-  background: #171717;
+  background: #fff;
 }
 
 .tabs ul.primary li a.is-active {
-  background-color: #353535;
+  background-color: #fff;
 }
 
 .tabs ul.primary li.is-active a {
-  background-color: #c43636;
-  border-bottom-color: #5f1212;
+  background-color: #fff;
+  border-bottom-color: #fff;
 }
 
 #navbar-top {
-  background-color: #191919;
+  background-color: #055a8e;
 }
 
 #navbar-main {
-  background-color: #171717;
+  background-color: #1d84c3;
 }
 
 a,
@@ -81,7 +81,7 @@ a:active,
 }
 
 .site-footer {
-  background: #171717;
+  background: #292929;
 }
 
 .region-header,
